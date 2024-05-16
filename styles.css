@@ -1,0 +1,73 @@
+/* NAV BAR STYLING */
+nav {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav a:hover {
+  background-color: #555;
+}
+
+/* BACKGROUND / BODY STYLES*/
+body {
+  font-family: 'Roboto', sans-serif; /* Professional font */
+  background-image: url('img/clouds.jpeg'); /* Background image */
+  /**background-size: 100%; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* No repeat */
+  color: #333; /* Text color */
+}
+
+/* Centering only the Tech Giants section */
+#Introduction {
+  padding: 20px;
+  margin: 0 auto; /* Center the section horizontally */
+  max-width: 800px; /* Limit the maximum width of the section */
+  text-align: left; /* Align text to the left within the section */
+}
+
+#tech-giants {
+  padding: 20px;
+  margin: 0 auto; /* Center the section horizontally */
+  max-width: 800px; /* Limit the maximum width of the section */
+  text-align: left; /* Align text to the left within the section */
+}
+
+#small-business {
+  padding: 20px;
+  margin: 0 auto; /* Center the section horizontally */
+  max-width: 800px; /* Limit the maximum width of the section */
+  text-align: left; /* Align text to the left within the section */
+}
+
+/* Styling for links */
+a {
+  color: #ffffff; /* Blue color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+  
+}
+
+a:focus {
+  outline: none; /* Remove focus outline */
+}
