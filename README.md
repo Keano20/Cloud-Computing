@@ -1,1 +1,1 @@
-A uni project based around cloud computing within the business sector. 
+A uni project based around cloud computing within the business sector. The main focuses will be around how cloud computing has changed the way modern businesses operate and handle their day to day tasks.
