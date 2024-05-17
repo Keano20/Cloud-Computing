@@ -54,6 +54,7 @@ body {
 
 #small-business {
   padding: 20px;
+  font-size: 25px;
   margin: 0 auto; /* Center the section horizontally */
   max-width: 800px; /* Limit the maximum width of the section */
   text-align: left; /* Align text to the left within the section */
